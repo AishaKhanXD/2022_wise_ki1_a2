@@ -4,7 +4,7 @@ Fitten von Daten
 
 
 Nicht vergessen die Abhängigkeiten zu installieren:
-pip install -r-requirements.txt
+pip install -r requirements.txt
 
 Falls beim Ausführen Fehlermeldung bezüglich pyqt auftreten, bitte noch
 
