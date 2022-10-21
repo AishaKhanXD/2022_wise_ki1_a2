@@ -2,4 +2,3 @@ pandas
 scipy
 matplotlib
 PyQt5
-# now it should work
